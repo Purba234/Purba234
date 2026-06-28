@@ -1,8 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Purba Saha</h1>
-
+<!-- COLORFUL HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI%2FML+Engineering+Student;Full+Stack+Developer;Data+Science+Enthusiast;Open+Source+Learner;Actively+Looking+for+Internships+🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,25:7928ca,50:2afadf,75:00c6ff,100:0072ff&height=220&section=header&text=Purba%20Saha&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Open%20Source%20Learner&descAlignY=55"/>
+</p>
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Purba+Saha;AI%2FML+Engineering+Student;Full+Stack+Developer;Data+Science+Enthusiast;Actively+Looking+for+Internships+🚀" />
 </p>
 
 ---
@@ -15,11 +19,11 @@
 
 💻 Passionate about **Software Development, AI/ML, Backend Development & Data Science**  
 
-📊 Experienced in **Data Analysis, Predictive Modeling and Academic Research Projects**  
+📊 Experienced in **Data Analysis, Predictive Modeling, and Academic Projects**  
 
-⚡ Skilled in **Python, Java, SQL, PostgreSQL, Power BI and Web Development**  
+⚡ Skilled in **Python, Java, SQL, PostgreSQL, Power BI, and Full Stack Development**  
 
-🌱 Currently learning **DSA, System Design, Backend Engineering and Generative AI**  
+🌱 Currently learning **DSA, System Design, Backend Engineering, and Generative AI**  
 
 🚀 Looking for **Software Engineering / Data Analyst / AI-ML Internship Opportunities**  
 
@@ -79,11 +83,7 @@
 
 ---
 
-## 🚀 Featured Projects
-
-🔹 **FinPRO** → AI Powered Financial Advisor  
-
-🔹 **Scholarship Recommendation Platform** → AI Based Scholarship Finder  
+## 🚀 Featured Projects 
 
 🔹 **Spotify Power BI Dashboard** → Data Analytics Dashboard  
 
@@ -95,7 +95,7 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Purba234&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Purba234&theme=tokyonight&show_icons=true&hide_border=false)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Purba234&theme=tokyonight&hide_border=false)
 
@@ -103,6 +103,11 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Purba234&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
 
 ## 📈 Contribution Graph
 
@@ -110,15 +115,9 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
-
-![Snake animation](https://github.com/Purba234/Purba234/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🌱 Currently Learning
 
-- Data Structures and Algorithms  
+- Data Structures & Algorithms  
 - Java Backend Development  
 - Machine Learning  
 - Generative AI  
@@ -127,11 +126,6 @@
 
 ---
 
-## ✍ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
 ## 👀 Profile Views
 
@@ -139,7 +133,13 @@
 
 ---
 
+<!-- FOOTER -->
 <p align="center">
-  ⭐ From <a href="https://github.com/Purba234">Purba Saha</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,25:00c6ff,50:2afadf,75:7928ca,100:ff0080&height=120&section=footer"/>
 </p>
 ```
+
+
+
+
+
