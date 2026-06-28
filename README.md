@@ -23,7 +23,7 @@
 
 ⚡ Skilled in **Python, Java, SQL, PostgreSQL, Power BI, and Full Stack Development**  
 
-🌱 Currently learning **DSA, System Design, Backend Engineering, and Generative AI**  
+🌱 Currently learning **DSA, Machine Learning , Generative AI**  
 
 🚀 Looking for **Software Engineering / Data Analyst / AI-ML Internship Opportunities**  
 
@@ -118,21 +118,14 @@
 ## 🌱 Currently Learning
 
 - Data Structures & Algorithms  
-- Java Backend Development  
 - Machine Learning  
 - Generative AI  
-- System Design  
-- Open Source Contribution  
-
 ---
-
-
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=Purba234&style=for-the-badge&color=blueviolet)
 
 ---
-
 <!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,25:00c6ff,50:2afadf,75:7928ca,100:ff0080&height=120&section=footer"/>
