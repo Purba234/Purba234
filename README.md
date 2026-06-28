@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Purba Saha</h1>
 
 <p align="center">
@@ -103,11 +103,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Purba234&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
 
 ## 📈 Contribution Graph
 
