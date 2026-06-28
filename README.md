@@ -1,18 +1,150 @@
-# 💫 About Me:
-Hello ! I am Purba Saha , Highly motivated Computer Science Engineering student specializing in AI/ML (B.Tech, JIS College of Engineering). Gained practical experience in data manipulation and predictive modeling through academic projects, utilizing core expertise in Python, MySQL, and PostgreSQL. Proficient with key data science libraries including Pandas, NumPy, and Scikit-learn. Eager to apply analytical and problem-solving skills to transform complex datasets into actionable insights.Actively looking for internship opportunities.
+```md
+<h1 align="center">Hi 👋, I'm Purba Saha</h1>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/purba-saha-b273a12b8/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:purbasahasince2005@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Purba234&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Purba234&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Purba234&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI%2FML+Engineering+Student;Full+Stack+Developer;Data+Science+Enthusiast;Open+Source+Learner;Actively+Looking+for+Internships+🚀" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Purba234&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+## 💫 About Me
+
+🎓 B.Tech Computer Science Engineering (AI & ML) student at **JIS College of Engineering**  
+
+💻 Passionate about **Software Development, AI/ML, Backend Development & Data Science**  
+
+📊 Experienced in **Data Analysis, Predictive Modeling and Academic Research Projects**  
+
+⚡ Skilled in **Python, Java, SQL, PostgreSQL, Power BI and Web Development**  
+
+🌱 Currently learning **DSA, System Design, Backend Engineering and Generative AI**  
+
+🚀 Looking for **Software Engineering / Data Analyst / AI-ML Internship Opportunities**  
+
+📫 Reach me at: **purbasahasince2005@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/purba-saha-b273a12b8/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:purbasahasince2005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+### Web Development
+
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwind-css)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+
+### AI / Data Science
+
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![PowerBI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
+![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **FinPRO** → AI Powered Financial Advisor  
+
+🔹 **Scholarship Recommendation Platform** → AI Based Scholarship Finder  
+
+🔹 **Spotify Power BI Dashboard** → Data Analytics Dashboard  
+
+🔹 **Smart Classroom Management System** → Web Based Academic Platform  
+
+🔹 **RAG Chatbot** → PDF Based Intelligent Retrieval System  
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Purba234&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Purba234&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Purba234&theme=tokyonight&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Purba234&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+## 📈 Contribution Graph
+
+[![Purba github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Purba234&theme=react-dark)]()
+
+---
+
+## 🐍 Contribution Snake Animation
+
+![Snake animation](https://github.com/Purba234/Purba234/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌱 Currently Learning
+
+- Data Structures and Algorithms  
+- Java Backend Development  
+- Machine Learning  
+- Generative AI  
+- System Design  
+- Open Source Contribution  
+
+---
+
+## ✍ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Purba234&style=for-the-badge&color=blueviolet)
+
+---
+
+<p align="center">
+  ⭐ From <a href="https://github.com/Purba234">Purba Saha</a>
+</p>
+```
